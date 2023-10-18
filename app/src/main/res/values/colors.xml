@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="gay">#2C6974</color>
+    <color name="pitoblanco">#FFFFFF</color>
+    <color name="amarillo">#F1CD1B</color>
+    <color name="pitomorado">#6750A3</color>
+    <color name="pitoverde">#60A033</color>
+</resources>
